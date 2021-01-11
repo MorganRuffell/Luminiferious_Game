@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # GamesProductionTerm1
 
 ### This is the repo for the games production term 1 repository.
