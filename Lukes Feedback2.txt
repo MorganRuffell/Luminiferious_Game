@@ -1,0 +1,25 @@
+No shadows - HOW????
+
+Toon shaded from two light sources?
+
+convert into vertex shader.
+
+Read the openGL stuff that Luke put in there about lighting models. 
+
+Toon shaders with normals ->
+
+	- think of it in the same context as taking a directional light. 
+	- XYZ represents the surface normal relatively. 
+
+	Node that gets to corodinates of normal map. 
+
+How to get it to work with global illumination?
+
+How to get it work with it directional ligjht?
+
+Google it. It's not in the shadow buffer?
+
+Leave the shader, and focus on sorting out the shadows?
+Alternatively look into a different shader implementation?
+
+

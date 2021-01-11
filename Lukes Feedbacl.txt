@@ -1,0 +1,14 @@
+Luke's feedback
+
+- You're being a bit premature
+- Look at the full game loop
+	- Focus on other areas of development
+	- If the things arwe fully made.
+
+
+Coroutines:
+
+	- Try and do the movement smoothly? //Some logic in the update loop, Google this.
+	-
+
+Develop my codebase further before I work on anything else. 
