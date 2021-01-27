@@ -1,8 +1,10 @@
 # GamesProductionTerm1
 
-### This is the repo for the games production term 1 repository.
+####  This is the repo for the games production term 1 repository.
 =======
-# GamesProduction
+
+Luminiferious is a prototype 2.d Scroller, currently I am working through the bugs that the 3D artists have with their 3D models as they are not animated properly. 
+The game is built on the back of the unity game Engine (Version 2019.2.3f1).
 
 
 ### Member List
