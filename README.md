@@ -11,7 +11,7 @@ Programmer:  Morgan Ruffell
 3D Artist:  Shared  
 2D Artist & UI:  Shared  
 
-We are attempting an interesting team roles, in which there is no properly defined roles. With the exception of the coding stuff which is Morgan, although even that is open to fluidity and allowing everyone to contribute to all sections of the projects.
+We are attempting an interesting mix of team roles, in which there is no properly defined roles. With the exception of the coding stuff which is Morgan, although even that is open to fluidity and allowing everyone to contribute to all sections of the projects.
 
 ### Project Name  
 # Luminiferious
